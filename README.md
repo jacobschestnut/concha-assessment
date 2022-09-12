@@ -1,6 +1,6 @@
-# concha-assessment
+# Concha Assessment
 
-## Set up:
+## Setup:
 
 With Debugger in VSCODE:
 - clone repository to working directory
